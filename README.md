@@ -1,2 +1,3 @@
 # concreteness-score-of-word
-This code takes as input an English word and returns its concretess score and position of speech, using as reference the Brysbaert, M. et. al. (2014) concreteness ratings for 40 thousand generally known English word lemmas.
+This code takes an English word as input and returns its concretess score and position of speech, using as reference the Brysbaert, M. et. al. (2014) concreteness ratings for 40 thousand generally known English word lemmas.
+Article: https://doi.org/10.3758/s13428-013-0403-5
